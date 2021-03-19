@@ -1,2 +1,4 @@
 This is my first file in project1.
 File is changed for observing the changes.
+File is changed again for observing stash command.
+
